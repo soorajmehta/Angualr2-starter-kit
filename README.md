@@ -7,7 +7,7 @@ Make sure you have Node install.
 Make sure you have webpack install globally. <Br />
 <B>npm install -g webpack</B>
 
-Open command prompt on the project location and first time run <BR />
+Open command prompt on the project location and first time run below command to install all dependencies. <BR />
 <B>npm install</B>
 
 Run <B>npm start</B> to start and run the project in the browser.
