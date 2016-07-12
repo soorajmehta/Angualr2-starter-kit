@@ -5,7 +5,7 @@ Clone the repo in to your machine.
 Make sure you have Node install.
 
 Make sure you have webpack install globally.
-npm install -g webpack
+<B>npm install -g webpack</B>
 
 Open command prompt on the project location and first time run 
 npm isntall
