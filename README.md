@@ -4,12 +4,12 @@ Clone the repo in to your machine.
 
 Make sure you have Node install.
 
-Make sure you have webpack install globally.
+Make sure you have webpack install globally. <Br />
 <B>npm install -g webpack</B>
 
-Open command prompt on the project location and first time run 
-npm isntall
+Open command prompt on the project location and first time run <BR />
+<B>npm isntall</B>
 
-run nppm start to start and run the project in the browser.
+Run <B>npm start</B> to start and run the project in the browser.
 
 Any changes made on the code will be reflected on browser automatically, no need to re run the above command.
